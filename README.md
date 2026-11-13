@@ -1,49 +1,23 @@
 > **Language:** English · [Português (Brasil)](README.pt-BR.md)
 
-<div align="center">
-
 # Store Communications Suite
 
 ### Python · desktop + web · Outlook · spreadsheets
 
-**Desktop and web workflows for preparing targeted store communications and tracking dispatch history.**
-
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Automation](https://img.shields.io/badge/Automation-20232A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Portfolio Edition](https://img.shields.io/badge/Portfolio-Edition-20232A?style=for-the-badge)
-
-</div>
-
----
-
-## About
-
 Desktop and web workflows for preparing targeted store communications and tracking dispatch history.
 
-This repository is a **sanitized portfolio edition** of an operational project. Production customer data, credentials, private endpoints, workstation-specific paths and runtime databases are intentionally excluded.
+## How I approached it
 
-## What it demonstrates
+I separated spreadsheet import, message preparation, integrations and history into distinct stages.
 
-- spreadsheet import and validation;
-- recipient selection rules;
-- message and attachment preparation;
-- local Outlook delivery flows;
-- dispatch history and dashboards;
+## Portfolio scope
 
-## Public portfolio scope
+The current default-branch version is a documentation-only presentation. Implementation files, runnable demos, internal configurations and operational data are not included in this version.
 
-The repository keeps representative source modules and architecture from the real project while removing environment-specific and confidential operational material. Some integrations require Windows desktop applications or authenticated third-party services and therefore need an authorized local environment to run end-to-end.
+This overview explains the project at a high level, without distributing its implementation or detailed business rules. It is not an installation guide or a certification of production readiness.
 
-## Language
-
-The technical portfolio is kept primarily in English for international readability. Brazilian clients can use the [Portuguese README](README.pt-BR.md).
-
-## Privacy
-
-No real customer data, production credential, private network address or internal workstation path is intended to be part of this public edition.
-
-See [`PORTFOLIO_EDITION.md`](PORTFOLIO_EDITION.md).
+See [Portfolio Edition](PORTFOLIO_EDITION.md) for scope and historical limitations.
 
 ---
 
-<div align="center">Built by **Eduardo Lima** · [GitHub](https://github.com/EduSchorr)</div>
+Presented by **Eduardo Lima** · [GitHub](https://github.com/EduSchorr)

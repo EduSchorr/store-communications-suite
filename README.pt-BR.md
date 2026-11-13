@@ -1,45 +1,23 @@
 > **Idioma:** [English](README.md) · Português (Brasil)
 
-<div align="center">
-
 # Suíte de Comunicação com Lojas
 
-**Fluxos desktop e web para preparar comunicações segmentadas e acompanhar o histórico de envios.**
+### Python · desktop + web · Outlook · spreadsheets
 
-</div>
+Fluxos desktop e web para preparar comunicações segmentadas e acompanhar envios.
 
----
+## Como desenvolvi
 
-## Sobre o projeto
+Separei importação de planilhas, preparação das mensagens, integrações e histórico. A organização permite conferir informações antes das etapas de comunicação.
 
-Fluxos desktop e web para preparar comunicações segmentadas e acompanhar o histórico de envios.
+## Escopo do portfólio
 
-Esta é uma **edição sanitizada para portfólio**. Dados reais de clientes, credenciais, endpoints privados, caminhos internos e bancos de produção foram removidos ou substituídos.
+A versão atual da branch principal é uma apresentação documental. Esta versão não inclui arquivos de implementação, demonstrações executáveis, configurações internas ou dados operacionais.
 
-## O que o projeto demonstra
+A apresentação explica a abordagem em linhas gerais, sem distribuir a implementação ou regras de negócio detalhadas. Não é um guia de instalação nem uma certificação de prontidão para produção.
 
-- importação e validação de planilhas;
-- regras de seleção de destinatários;
-- preparação de mensagens e anexos;
-- fluxos locais de envio via Outlook;
-- histórico de disparos e dashboards;
-
-## Para clientes brasileiros
-
-O código e a documentação técnica principal permanecem em inglês para facilitar a leitura internacional. Este README apresenta a visão do projeto em português para clientes e parceiros no Brasil.
-
-Os projetos nasceram de problemas operacionais reais e foram adaptados para demonstração pública sem expor informações confidenciais.
-
-## Escopo público
-
-A edição pública mantém módulos representativos, regras de negócio e arquitetura suficientes para demonstrar a solução. Algumas integrações dependem de aplicativos Windows ou serviços autenticados e exigem um ambiente autorizado para execução completa.
-
-## Privacidade
-
-Nenhum dado real de cliente, credencial de produção, endereço de rede privada ou caminho interno de estação de trabalho deve fazer parte desta edição.
-
-Veja também [`PORTFOLIO_EDITION.md`](PORTFOLIO_EDITION.md).
+Consulte [Portfolio Edition](PORTFOLIO_EDITION.md) para entender o escopo e a limitação do histórico.
 
 ---
 
-<div align="center">Desenvolvido por **Eduardo Lima** · [GitHub](https://github.com/EduSchorr)</div>
+Apresentado por **Eduardo Lima** · [GitHub](https://github.com/EduSchorr)
